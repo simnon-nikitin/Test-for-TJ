@@ -34,5 +34,5 @@ td:first-child {
     padding-top: 30px;
 }
 .num{
-    padding-bottom: 25px;
+    vertical-align: top;
 }
